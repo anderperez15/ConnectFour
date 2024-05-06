@@ -1,0 +1,21 @@
+.box {
+    width: 90%;
+    height: 90%;
+    border-radius: 50%;
+}
+
+.gray {
+    background-color: gray;
+}
+
+.red {
+    background-color: darkred;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.over {
+    background-color: rgba(0, 0, 0, 0.682)!important;
+}
